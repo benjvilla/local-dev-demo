@@ -1,0 +1,12 @@
+defaultPortal: demo
+portals:
+  - name: demo
+    portalId: 22026013
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CO_2l7ePMBIJAA0AAAAA4A0DGJ2uwAog9KG6FSju6QwyFHoQCQiUWvYicLfSfP8ZACKvjDktOjcAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgAAAAAAAAAAAAAAAAADACQhRjdd6Xa4G4iekHiqtVuCQlKHO3q0oDbmExUgBaAA
+        expiresAt: '2022-05-24T16:28:28.915Z'
+    personalAccessKey: >-
+      CiQxYjQ5ODVmZS0yMDY3LTQ4N2EtOTcwYi04NGU1OGNlMDY2MzQQna7AChj0oboVKhkABeaRguqEZM1yMYffbe8BFDSD3s9aXPDRSgNuYTE
